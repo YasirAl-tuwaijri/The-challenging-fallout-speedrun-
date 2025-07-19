@@ -1,6 +1,6 @@
 import random
 
-choices1 = ["Yes man ", "legion", "House", " NCR",]
+choices1 = ["Yes man ", "legion", "House", " NCR (on very easy mode because they take a lot of time comparing to the others)",]
 draw1 = random.choice(choices1)
 print("First random:", draw1)
 
